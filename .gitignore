@@ -65,4 +65,5 @@ Trash/
 *.layout
 *.cbp
 
-
+# Build folder
+build/
