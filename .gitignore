@@ -50,3 +50,19 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Binaries folder
+bin/
+
+# object folder
+obj/
+
+#Trash folder
+Trash/
+
+# codeblock project files
+*.depend
+*.layout
+*.cbp
+
+
